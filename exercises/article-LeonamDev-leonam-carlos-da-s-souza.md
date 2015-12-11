@@ -2,7 +2,7 @@
 
 **Autor:** Leonam Carlos da S Souza
 
-**Data:** 11/12/2015 00:09
+**Data:**  11/12/2015 00:09
 
 ## Qual a diferença entre Autenticação e Autorização?
 
